@@ -1,0 +1,14 @@
+# Environment & secrets
+.env
+
+# Python artifacts & virtual environments
+__pycache__/
+*.pyc
+.venv/
+
+# Local fallback storage (SQLite & quarantine folder)
+*.db
+quarantine_fallback/
+
+# OS metadata
+.DS_Store

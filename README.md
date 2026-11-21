@@ -3,15 +3,17 @@
 > **A Web Application Firewall (WAF) for Enterprise AI — stopping PII/secret leaks in `<1 ms` and blocking prompt-injection attacks before untrusted prompts ever reach an LLM.**
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-http%3A%2F%2F172.232.171.103-009BDE?style=for-the-badge&logo=akamai&logoColor=white)](http://172.232.171.103)
+[![Pitch Deck](https://img.shields.io/badge/Pitch%20Deck-Interactive%20Slides-FF9933?style=for-the-badge&logo=slides&logoColor=white)](http://172.232.171.103/app/static/pitch-deck.html)
 [![Akamai Cloud](https://img.shields.io/badge/Powered%20By-Akamai%20Cloud-002F6C?style=for-the-badge)](https://www.akamai.com/)
 
 ![PromptVeil Live SOC Dashboard on Akamai Cloud](assets/promptveil-demo-screenshot.png)
 
 ---
 
-## 🌐 Try the Live Demo Yourself
+## 🌐 Try the Live Demo & Pitch Deck Yourself
 
-**Live URL (hosted on Akamai Cloud Linode in Seattle):** 👉 **http://172.232.171.103**
+- 🚀 **Live Demo on Akamai Cloud Linode (Seattle):** 👉 [http://172.232.171.103](http://172.232.171.103)
+- 📊 **Interactive Pitch Deck (Presentation Slides):** 👉 [http://172.232.171.103/app/static/pitch-deck.html](http://172.232.171.103/app/static/pitch-deck.html) *(or view local [promptveil-pitch-deck.html](promptveil-pitch-deck.html))*
 
 *(Note: The live demo runs over plain HTTP for the hackathon—if your browser shows an HTTP notice, click "Continue to site". No login or API key is required to test the gateway!)*
 
